@@ -7,6 +7,13 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+    background-image: url('assets/background.jpg');
+    min-height: 100vh;
+    width: 100vw; 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
 }
 
 .navbar {
@@ -80,11 +87,47 @@ body {
     background-color: rgb(2, 131, 2); 
 }
 
-.container{
-    background-image: url('assets/background.jpg');
-    min-height: 100vh;
-    width: 100vw; 
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
+/* .container{
+    
+}
+.home{
+    background: linear-gradient(to bottom, #ff7e5f, #feb47b);
+} */
+.homeh1{
+    color:white;
+    margin-top:15%;
+    margin-left:20%;
+    width: 20%;
+    height: 9%;
+    font-size:36px;
+}
+
+.homep {
+    width: 25%;
+    color:white;
+    margin-left:20%;
+    margin-top:1%;
+}
+#book{
+    margin-top:3%;
+    margin-left:20%;
+    color:white;
+    background-color: rgb(2, 131, 2); 
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+}
+
+.social-link{
+    position: fixed;
+    bottom: 30%; /* Distance du bas de la fenêtre */
+    left: 15px;
+    margin-left: 5px;
+    height: 10%;
+    width: 10px;
+}
+.icon{
+ 
+    width: 30px;
+    height: 30px;
 }
