@@ -21,12 +21,11 @@ body {
 .logo {
     display: flex;
     align-items: center;
-    color: white; /* Assure que le texte du logo est en blanc */
+    color: white;
 }
 
 .logo img {
-    width: 40px;
-    height: 40px;
+    display: flex;
     margin-right: 10px;
 }
 
@@ -41,24 +40,29 @@ body {
 
 .nav-links li a {
     text-decoration: none;
-    color: white; /* Texte des liens en blanc */
+    color: white; 
     font-size: 18px;
 }
 
 .nav-links li a:hover {
     text-decoration: underline;
 }
-
 .search-container {
     display: flex;
     align-items: center;
+    width: 380px;
+    background-color: white;
+    border-radius: 38px;
+    max-width: 100%; /* Assure que la div ne dépasse pas son conteneur parent */
+    overflow: hidden; /* Cache tout ce qui dépasse */
 }
 
 .search-container input {
     padding: 5px 10px;
     border: 1px solid #ccc;
-    border-radius: 3px;
+    border-radius: 38px; /* Assure une bordure arrondie */
     outline: none;
+    box-sizing: border-box; /* Inclut les paddings et les bordures dans la largeur totale */
 }
 
 .search-container .search-btn,
@@ -66,15 +70,21 @@ body {
     margin-left: 10px;
     padding: 5px 15px;
     border: none;
-    border-radius: 3px;
+    border-radius: 8px;
     cursor: pointer;
-    color: white; /* Texte des boutons en blanc */
-}
-
-.search-container .search-btn {
-    background-color: #006666;
+    color: white;
+    background-color: rgb(2, 131, 2); 
 }
 
 .search-container .clear-btn {
-    background-color: #f44336;
+    background-color: rgb(2, 131, 2); 
+}
+
+.container{
+    background-image: url('assets/background.jpg');
+    min-height: 100vh;
+    width: 100vw; 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
 }
