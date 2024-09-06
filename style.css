@@ -220,6 +220,7 @@ body {
     background-color: transparent;
     height:50%;
     width: 85%;
+    color: white;
 }
 .form-container{
     display:flex;
@@ -232,7 +233,7 @@ body {
     flex-direction: row;
     width: 80%;
     margin-left: 20%;
-    margin-top: 25%;
+    margin-top: 15%;
     margin-bottom:10%;
 }
 .btn-submit{

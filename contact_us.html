@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,29 +24,34 @@
             <button class="clear-btn">Clear</button>
         </div>
     </nav>
-    <div class="container">
-        <section id="home" class="home">
-            <h1 class="homeh1">
-                EXPLORE DREAME DESTINATION
-            </h1>
-            <p class="homep">
-                It encourages exploration od unfamiliar territories, 
-                embracing diverse culture and landscapes, while pursuing 
-                the desired destination that captivates the heart and 
-                ignites a sense of wonder.
-            </p>
-            <button id="book">
-                BOOK NOW
-            </button>
-        </section><br>
-       
+
+     <section id="contact_us" class="contact_us">
+            <div class="contact_container">
+                <h1 class="contact">
+                    CONTACT US
+                </h1>
+                <p class="contact1">
+                    Get in touch.
+                </p>
+            </div>
+            <div class="form-container">
+                <form action="#">
+                    <label class="label" for="name">Name</label> <br>
+                    <input class="input" id="name" type="text" name="name" placeholder="Thibaut Degbetchi" required><br><br>
+                    <label class="label" for="email">E-mail</label><br>
+                    <input class="input"  type="email" name="email" id="email" placeholder="thibautdegbetchi@gmail.com" required><br><br>
+                    <label class="label" class="label" for="message">Message</label><br>
+                    <input class="inputMessage"type="text" name="message" placeholder="Your message" required><br><br>             
+                    <button class="btn-submit" type="submit">Submit</button>
+                </form>
+            </div>
+        </section>
         <section class="social-link">
             <img class="icon" src="assets/twitter.png" alt="Twitter">
             <img class="icon" src="assets/facebook.png" alt="Facebook">
             <img class="icon" src="assets/insta.png" alt="Instagram">
             <img class="icon" src="assets/youtube.png" alt="youtube">
         </section>
-    </div>
-    <script src="./travel_recommendation.js"></script>
+    
 </body>
 </html>
