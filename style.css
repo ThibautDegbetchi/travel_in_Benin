@@ -78,7 +78,6 @@ body {
     padding: 5px 15px;
     border: none;
     border-radius: 8px;
-    cursor: pointer;
     color: white;
     background-color: rgb(2, 131, 2); 
 }
@@ -101,12 +100,29 @@ body {
     height: 9%;
     font-size:36px;
 }
+.about1{
+    color:white;
+    margin-top:15%;
+    width: 30%;
+    height: 9%;
+    font-size:36px;
+    font-weight: bold;
+}
 
 .homep {
     width: 25%;
     color:white;
     margin-left:20%;
     margin-top:1%;
+}
+.about_us{
+    width: 70%;
+    color:white;
+    margin-left:20%;
+    margin-top:1%;
+}
+.about{
+    margin-top:2%;
 }
 #book{
     margin-top:3%;
@@ -130,4 +146,30 @@ body {
  
     width: 30px;
     height: 30px;
+}
+.btn{
+    margin-left: 10px;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(2, 131, 2); 
+}
+.profil{
+    width: 40px;
+    height: 50px;
+}
+.team{
+    width: 70%;
+    height: 10%;
+    display: flex;
+    align-items: center; /* Aligne verticalement l'image et le texte */
+    justify-content: space-evenly;
+}
+.team-info{
+    display: flex;
+    width: 20%;
+    height:15%;
+    flex-direction: column;
+    justify-content: center;
 }
