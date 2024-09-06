@@ -2,12 +2,12 @@
     "countries": [
       {
         "id": 1,
-        "name": "Australia",
+        "name": "ALLADA",
         "cities": [
           {
-            "name": "Sydney, Australia",
-            "imageUrl": "enter_your_image_for_sydney.jpg",
-            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+            "name": "TOUSSAINT L'ouverture",
+            "imageUrl": "assets/toussaint.jpg",
+            "description": "Toussaint Louverture est né esclave en 1743 à Saint-Domingue. Il exerce la fonction de cocher sur la plantation de Brédé au Hauts-du-Cap, avant d'être affranchi à l'âge de trente-trois ans. Il devient ensuite propriétaire de sa propre exploitation."
           },
           {
             "name": "Melbourne, Australia",
@@ -18,33 +18,33 @@
       },
       {
         "id": 2,
-        "name": "Japan",
+        "name": "OUIDAH",
         "cities": [
           {
-            "name": "Tokyo, Japan",
-            "imageUrl": "enter_your_image_for_tokyo.jpg",
-            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+            "name": "Porte du non-retour",
+            "imageUrl": "Porte_non_retour.jpg",
+            "description": "Implantée à Ouidah au bord de l'océan Atlantique, la porte du non retour symbolise le lieu d'embarquement des esclaves noirs pour les Amériques. Témoin vivant et douloureux du commerce des noirs, la porte du non retour à Ouidah marque la fin de la route des esclaves."
           },
           {
-            "name": "Kyoto, Japan",
-            "imageUrl": "enter_your_image_for_kyoto.jpg",
-            "description": "Known for its historic temples, gardens, and traditional tea houses."
+            "name": "Monument",
+            "imageUrl": "Ouidah_place_chacha.jpg",
+            "description": "Encore appelée « Place Chacha », la place aux enchères de Ouidah est lieu qui marque le début de la route des esclaves. Il s’agit d’un marché où s’échangeaient des marchandises de toutes natures. Pendant que les Européens y apportaient des produits manufacturés, les rois du Dahomey y proposaient des esclaves par l’intermédiaire du marchand d’esclaves brésilien nommé Don Francisco de Souza. C’est à ce marchand que la place aux enchères doit son nom puisqu’il avait pour surnom Cha cha (ce qui signifie vite vite en langue Fon gbé)."
           }
         ]
       },
       {
         "id": 3,
-        "name": "Brazil",
+        "name": "COTONOU",
         "cities": [
           {
-            "name": "Rio de Janeiro, Brazil",
-            "imageUrl": "enter_your_image_for_rio.jpg",
-            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+            "name": "Amazone",
+            "imageUrl": "amazone.jpg",
+            "description": "Nawi, la dernière Guerrière (Mino) du Dahomey. La dernière survivante connue des Mino est une femme du nom de Nawi. En 1978, lors d'un reportage dans le village de Kinta, un historien béninois rencontra Nawi, qui disait avoir combattu les Français en 1892. Nawi est morte en novembre 1979, âgée de plus de 100 ans."
           },
           {
-            "name": "São Paulo, Brazil",
-            "imageUrl": "enter_your_image_for_sao-paulo.jpg",
-            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+            "name": "Lac",
+            "imageUrl": "lac.jpeg",
+            "description": "Le lac Nokoué, d’une superficie de 339 ha, est le plus important lac au Bénin. Il est constitué d’un complexe marécageux qui sert de lieu de passage et de refuge aux trafiquants de produits pétroliers et autres contrebandiers mais également à la pêche et au maraîchage. Le maintien de la passe depuis la construction du port de Cotonou, les dragages non contrôlés et les techniques de pêche acadja pratiquée par les populations Toffin de Ganvié et de Zogbo, ont largement modifié les conditions hydrodynamiques, physico-chimiques et écologiques du \"lac\". Aujourd’hui les pêcheurs ne tirent plus des revenus substantiels de la pêche à cause de réduction de la taille des prises et la taille marchande des poissons. Les déchets solides d’origine terrestre polluent le lac qui les draine vers la mer par le chenal. Les séances de sensibilisation ont amené les populations locales à adhérer à la gestion durable des ressources."
           }
         ]
       }
@@ -52,23 +52,23 @@
     "temples": [
       {
         "id": 1,
-        "name": "Angkor Wat, Cambodia",
-        "imageUrl": "enter_your_image_for_angkor-wat.jpg",
-        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+        "name": "Temple des Pythons",
+        "imageUrl": "templePython.jpg",
+        "description": "300 ans après, le Temple des Pythons reste toujours un lieu aussi pittoresque.Ouidah (Bénin) est l’une des villes les plus importantes de l’histoire de l’esclavage en Afrique de l’ouest. Entre la Porte du non-retour et les bâtiments coloniaux, se trouvent un des plus vieux, sinon le plus vieux sanctuaire vodoun qui existe depuis le 17ème siècle et qui jusqu’à ce jour est l’un des lieux les plus visités du Bénin avec plus de 1000 visiteurs par an. Ce temple unique où on vénère la divinité python, seulement accessible aux initiés, est devenu partiellement ouvert aux touristes du monde entier."
       },
       {
         "id": 2,
-        "name": "Taj Mahal, India",
-        "imageUrl": "enter_your_image_for_taj-mahal.jpg",
-        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+        "name": "Basilique de Ouidah",
+        "imageUrl": "basilique_de_Ouidah.jpg",
+        "description": "En arrivant cette basilique se remarque . La façade comporte un clocher de section carrée , mais inachevé , encadré par deux contreforts ouverts de lancettes en vitrail , le tout peint en gris clair . Le porche à la base du clocher , est encadré par une haute portée en arc de plein cintre à voussures peintes en blanc."
       }
     ],
     "beaches": [
       {
         "id": 1,
-        "name": "Bora Bora, French Polynesia",
-        "imageUrl": "enter_your_image_for_bora-bora.jpg",
-        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+        "name": "Fidjrossè",
+        "imageUrl": "fidjrosse.webp",
+        "description": ""
       },
       {
         "id": 2,
