@@ -68,13 +68,13 @@
         "id": 1,
         "name": "Fidjrossè",
         "imageUrl": "fidjrosse.webp",
-        "description": ""
+        "description": "La plage de Fidjrossè, à la morphologie littorale proche de celle de la route des Pêches, constitue une plage multi-fonctionnelle, faisant alterner l'activité halieutique (en semaine) et les loisirs (en fin de semaine). Le week-end, les vendeurs ambulants, les enfants, les habitants de Cotonou remplacent les pêcheurs."
       },
       {
         "id": 2,
-        "name": "Copacabana Beach, Brazil",
-        "imageUrl": "enter_your_image_for_copacabana.jpg",
-        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+        "name": "Obama beach",
+        "imageUrl": "obama_beach.webp",
+        "description": "La plage est assez large, avec un très bon sable. La vue sur l'océan est magnifique. Mais les habitants m'ont averti que la plage est considérée comme assez dangereuse pour la baignade, en raison des forts courants. Dans certaines régions de Cotonou, ils semblent essayer de planter beaucoup de palmiers sur les plages."
       }
     ]
   }
