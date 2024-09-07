@@ -1,5 +1,5 @@
 {
-    "cities": [
+    "countries": [
       {
         "id": 1,
         "name": "ALLADA",
@@ -77,5 +77,5 @@
         "description": "La plage est assez large, avec un très bon sable. La vue sur l'océan est magnifique. Mais les habitants m'ont averti que la plage est considérée comme assez dangereuse pour la baignade, en raison des forts courants. Dans certaines régions de Cotonou, ils semblent essayer de planter beaucoup de palmiers sur les plages."
       }
     ]
-  }
+}
   

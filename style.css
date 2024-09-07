@@ -62,16 +62,16 @@ body {
     width: 380px;
     background-color: white;
     border-radius: 38px;
-    max-width: 100%; /* Assure que la div ne dépasse pas son conteneur parent */
-    overflow: hidden; /* Cache tout ce qui dépasse */
+    max-width: 100%; 
+    /* overflow: hidden;  */
 }
 
 .search-container input {
     padding: 5px 10px;
     border: 1px solid #ccc;
-    border-radius: 38px; /* Assure une bordure arrondie */
+    border-radius: 38px; 
     outline: none;
-    box-sizing: border-box; /* Inclut les paddings et les bordures dans la largeur totale */
+    box-sizing: border-box; 
 }
 
 .search-container .search-btn,
@@ -88,9 +88,6 @@ body {
     background-color: rgb(2, 131, 2); 
 }
 
-/*.home{
-    background: linear-gradient(to bottom, #ff7e5f, #feb47b);
-} */
 .homeh1{
     color:white;
     margin-top:15%;
@@ -255,12 +252,12 @@ body {
     /* background-color: red; */
     width: 50%;
     /* min-height: 100%;  */
-    top: 0%; 
+    top: 12%; 
     right: 1%;
     padding: 6%;
     overflow-y: auto; 
 }
-.result{
+.result-detail{
     /* width: 100%; */
     height: 60%;
     background-color: white;
@@ -273,6 +270,9 @@ body {
     height:240px;
     width:487px;
     object-fit:fill;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+
 }
 .ansbutton{
     margin-top:3%;
