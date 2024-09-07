@@ -249,3 +249,15 @@ body {
     font-size: 18px;
     margin-left:3%;
 }
+
+
+#search-answers{
+    position:fixed;
+    color: white;
+    background-color: red;
+    width:50%;
+    height:90%;
+    top: 10%; 
+    right: 1%;
+    margin-left: 5%;
+}

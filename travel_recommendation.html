@@ -18,8 +18,8 @@
             <li><a href="contact_us.html">Contact Us</a></li>
         </ul>
         <div class="search-container">
-            <input type="text" placeholder="Enter a destination or keyword">
-            <button class="search-btn">Search</button>
+            <input id="search" type="text" placeholder="Enter a destination or keyword">
+            <button class="search-btn" onclick="toSearch()">Search</button>
             <button class="clear-btn">Clear</button>
         </div>
     </nav>
@@ -38,7 +38,9 @@
                 BOOK NOW
             </button>
         </section><br>
-       
+       <section id="search-answers">
+
+       </section>
         <section class="social-link">
             <img class="icon" src="assets/twitter.png" alt="Twitter">
             <img class="icon" src="assets/facebook.png" alt="Facebook">
