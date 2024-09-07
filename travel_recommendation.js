@@ -11,7 +11,10 @@ function toSearch(){
     search=document.getElementById('search').value.toString().toLowerCase();
 
     if(search==="city" || search==="cities" || search==="ville" || search==="villes"){
-        
+        let citiesList = datas["cities"];
+        citiesList.forEach(city => {
+            
+        });
     }else if(search==="country" || search==="countries" || search==="pays"){
 
     }else if(search==="beach" || search==="beaches" || search==="plage" || search==="plages" ){
